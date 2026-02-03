@@ -1,0 +1,9 @@
+# Backend (ASP.NET)
+SimpleCrudApi/bin/
+SimpleCrudApi/obj/
+SimpleCrudApi/*.user
+SimpleCrudApi/*.vs
+
+# Frontend (Angular)
+SimpleCrudUi/node_modules/
+SimpleCrudUi/dist/
